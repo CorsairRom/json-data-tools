@@ -1,0 +1,62 @@
+﻿[
+    {
+        "name": "Banco Estado",
+        "code": "012"
+    },
+    {
+        "name": "Banco de Chile / Edwards",
+        "code": "001"
+    },
+    {
+        "name": "Banco de Crédito e Inversiones (BCI)",
+        "code": "016"
+    },
+    {
+        "name": "Banco Bice",
+        "code": "028"
+    },
+    {
+        "name": "HSBC Bank",
+        "code": "031"
+    },
+    {
+        "name": "Banco Santander",
+        "code": "037"
+    },
+    {
+        "name": "Itaú / Corpbanca",
+        "code": "039"
+    },
+    {
+        "name": "Banco Security",
+        "code": "049"
+    },
+    {
+        "name": "Scotiabank",
+        "code": "014"
+    },
+    {
+        "name": "Scotiabank Azul (Ex BBVA)",
+        "code": "504"
+    },
+    {
+        "name": "Banco Falabella",
+        "code": "051"
+    },
+    {
+        "name": "Banco Ripley",
+        "code": "053"
+    },
+    {
+        "name": "Banco Consorcio",
+        "code": "055"
+    },
+    {
+        "name": "Banco BTG Pactual Chile",
+        "code": "059"
+    },
+    {
+        "name": "Banco Internacional",
+        "code": "009"
+    }
+]
